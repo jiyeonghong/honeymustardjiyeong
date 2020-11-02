@@ -1,7 +1,7 @@
 # Jiyeong's Website!
 
 Access? 
-https://hedsw.github.io/Portfolio_Yunhyeok/# 
+https://jiyeonghong.github.io/honeymustardjiyeong/#
 
 PersonalWebsite for Jiyeong, Me :) 
 # honeymustard
